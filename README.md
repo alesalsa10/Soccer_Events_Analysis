@@ -1,4 +1,4 @@
-#This project is not finished yet
+# This project is not finished yet
 $SQL was used for cleaning up the data, and Pandas for data visualization
 # Soccer_Events_Analysis
 Analaysis of player performance using Kaggle's 'Football events' dataset
