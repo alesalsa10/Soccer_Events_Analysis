@@ -1,5 +1,6 @@
 # This project is not finished yet
-$SQL was used for cleaning up the data, and Pandas for data visualization
+Need to finnish comparison between messi and ronaldo
+# SQL was used for cleaning up the data, and Pandas for data visualization
 # Soccer_Events_Analysis
 Analaysis of player performance using Kaggle's 'Football events' dataset
 # What was looked for?
