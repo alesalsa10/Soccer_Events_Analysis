@@ -1,7 +1,5 @@
-# This project is not finished yet
-Need to finnish comparison between messi and ronaldo
-# SQL was used for cleaning up the data, and Pandas for data visualization
 # Soccer_Events_Analysis
+# SQL was used for cleaning up the data, and Pandas for data visualization
 Analaysis of player performance using Kaggle's 'Football events' dataset
 # What was looked for?
 Players with the best overall shot conversion rate, left and right foot conversion rate, and header conversin rate as well.
